@@ -1,0 +1,21 @@
+# Build products
+/build/
+*.exe
+*.dll
+*.o
+*.obj
+*.pdb
+*.tmp
+# Machine-local settings and private material
+/.vscode/
+/.claude/
+/.codex/
+/private*/
+/backup*/
+.env
+*.local.json
+*.docx
+*.doc
+*.pdf
+*.zip
+~$*
